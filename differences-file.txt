@@ -1,0 +1,14 @@
+
+the differences between fetch & axios:
+
+fetch :
+1) no installation is required.
+2) limited error handling.
+3) lack of older browser support.
+
+
+axios:
+
+1) installation is required.
+2) error handling.
+3) Wide browser support.

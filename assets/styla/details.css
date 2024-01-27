@@ -1,0 +1,73 @@
+.product {
+  background-color: rgb(245, 241, 255);
+  border-radius: 10px;
+  border: solid 1px rgb(47, 47, 136);
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  padding: 40px;
+  margin-top: 20px;
+}
+
+.swiper {
+  width: 80%;
+  height: 250px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  border-radius: 20px;
+}
+
+.swiper .swiper-slide {
+  width:100px;
+
+  
+}
+.product .title {
+  color: rgb(47, 47, 136);
+  font-size: 22px;
+  text-align: center;
+}
+
+.product .desc {
+  color: rgb(47, 47, 136);
+  font-size: 15px;
+  text-align: center;
+}
+
+.product .category {
+  font-size: 15px;
+  color: rgb(47, 47, 136);
+  text-align: center;
+}
+
+
+.product .priseDis{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+
+.product .price{
+  font-size: 50px;
+  color: rgb(14, 14, 75);
+
+}
+.product .discount{
+  font-size: 35px;
+  color: rgb(255, 1, 1);
+}
+.product a{
+    background-color: rgb(171, 171, 208);
+    padding:7px 10px;
+    border-radius:60px;
+    text-decoration-line: none;
+    color:rgb(14, 14, 75);
+    width:20%;
+    text-align: center;
+    margin: auto;
+
+}
+
+
